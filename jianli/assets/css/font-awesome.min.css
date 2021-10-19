@@ -11,6 +11,8 @@
 }
 
 .fa {
+    /*xiugai  red*/
+    color: red;
     display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
     font-size: inherit;
@@ -1703,6 +1705,8 @@
 
 .fa-mortar-board:before, .fa-graduation-cap:before {
     content: "\f19d"
+
+
 }
 
 .fa-yahoo:before {
