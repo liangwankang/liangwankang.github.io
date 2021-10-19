@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed>
   <title></title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://liangwankang.github.io/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
   <updated>2021-10-19T07:20:06.911Z</updated>
