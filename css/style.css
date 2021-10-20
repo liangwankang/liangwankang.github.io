@@ -530,6 +530,7 @@ body {
   clear: both;
 }
 .article-date {
+  color: #3e3e3e;
   float: left;
 }
 .article-category {
