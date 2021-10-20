@@ -97,6 +97,8 @@ table {
   border-collapse: separate;
   border-spacing: 0;
   vertical-align: middle;
+  /**/
+  border: none;
 }
 caption,
 th,
@@ -117,6 +119,8 @@ input::-moz-focus-inner,
 button::-moz-focus-inner {
   border: 0;
   padding: 0;
+  /**/
+  border: none;
 }
 @font-face {
   font-family: FontAwesome;
@@ -221,6 +225,8 @@ body {
   box-shadow: 1px 2px 3px #ddd;
   border: 1px solid #ddd;
   border-radius: 3px;
+  /**/
+  border: none;
 }
 .article-entry h1,
 .widget h1 {
@@ -250,6 +256,8 @@ body {
 .article-entry hr,
 .widget hr {
   border: 1px dashed #ddd;
+  /**/
+  border:none;
 }
 .article-entry strong,
 .widget strong {
@@ -287,6 +295,8 @@ body {
 .article-entry abbr,
 .widget abbr {
   border-bottom: 1px dotted;
+  /**/
+  border:none;
 }
 .article-entry ul,
 .widget ul,
@@ -324,6 +334,8 @@ body {
   height: 300px;
   position: relative;
   border-bottom: 1px solid #ddd;
+  /**/
+  border:none;
 }
 #header:before,
 #header:after {
@@ -490,6 +502,8 @@ body {
   border-radius: 15px;
   -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.3);
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  /**/
+  border:none;
 }
 .search-form-input {
   border: none;
@@ -628,15 +642,21 @@ a.article-title:hover {
   width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
+  /**/
+  border:none;
 }
 .article-entry th {
   font-weight: bold;
   border-bottom: 3px solid #ddd;
   padding-bottom: 0.5em;
+  /**/
+  border:none;
 }
 .article-entry td {
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
+  /**/
+  border:none;
 }
 .article-entry blockquote {
   font-family: Georgia, "Times New Roman", serif;
@@ -699,6 +719,8 @@ a.article-title:hover {
   color: #999;
   text-shadow: 0 1px #fff;
   text-decoration: none;
+  /**/
+  border:none;
 }
 .article-more-link a:hover {
   background: #258fb8;
@@ -712,6 +734,8 @@ a.article-title:hover {
   border-top: 1px solid #ddd;
   padding-top: 1.6em;
   margin: 0 20px 20px;
+  /**/
+  border:none;
 }
 .article-footer:before,
 .article-footer:after {
@@ -781,6 +805,8 @@ a.article-title:hover {
     background: #ddd;
     -webkit-box-shadow: 0 1px 2px #fff;
     box-shadow: 0 1px 2px #fff;
+    /**/
+    border:none;
   }
 }
 .article-nav-link-wrap {
@@ -793,6 +819,8 @@ a.article-title:hover {
   margin-top: 50px;
   text-align: center;
   display: block;
+  /**/
+  border:none;
 }
 .article-nav-link-wrap:hover {
   color: #555;
@@ -842,6 +870,8 @@ a.article-title:hover {
   margin-left: -145px;
   overflow: hidden;
   z-index: 1;
+  /**/
+  border:none;
 }
 .article-share-box.on {
   display: block;
@@ -860,6 +890,8 @@ a.article-title:hover {
   border-radius: 3px 3px 0 0;
   height: 36px;
   line-height: 36px;
+  /**/
+  border:none;
 }
 .article-share-links {
   background: #eee;
@@ -965,6 +997,8 @@ a.article-title:hover {
   border: 1px solid #ddd;
   border-radius: 3px;
   margin: 50px 0;
+  /**/
+  border:none;
 }
 #comments a {
   color: #258fb8;
@@ -1046,6 +1080,8 @@ a.article-title:hover {
   text-align: center;
   color: #999;
   overflow: hidden;
+  /**/
+  border:none;
 }
 #page-nav:before,
 #page-nav:after {
@@ -1095,6 +1131,8 @@ a.article-title:hover {
   padding: 50px 0;
   border-top: 1px solid #ddd;
   color: #999;
+  /**/
+  border:none;
 }
 #footer a {
   color: #258fb8;
@@ -1119,6 +1157,8 @@ a.article-title:hover {
   overflow: auto;
   color: #ccc;
   line-height: 22.400000000000002px;
+  /**/
+  border:none;
 }
 .article-entry .highlight .gutter pre,
 .article-entry .gist .gist-file .gist-data .line-numbers {
@@ -1186,6 +1226,8 @@ a.article-title:hover {
   border-width: 1px 0;
   background: #2d2d2d;
   padding: 15px 20px 15px 0;
+  /**/
+  border:none;
 }
 .article-entry .gist .gist-file {
   border: none;
@@ -1290,6 +1332,8 @@ pre .javascript .function {
     height: 100%;
     background: #191919;
     border-right: 1px solid #fff;
+    /**/
+    border:none;
   }
 }
 @media screen and (max-width: 479px) {
@@ -1324,6 +1368,8 @@ pre .javascript .function {
   border: 1px solid #ccc;
   padding: 15px;
   border-radius: 3px;
+  /**/
+  border:none;
 }
 .widget a {
   color: #258fb8;
