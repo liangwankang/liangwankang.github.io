@@ -128,13 +128,13 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 .outer {
-  background: url("images/icon15.png");
   max-width: 1220px;
   margin: 0 auto;
   padding: 0 20px;
 }
 .outer:before,
 .outer:after {
+  background: url("images/icon15.png");
   content: "";
   display: table;
 }
