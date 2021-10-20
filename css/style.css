@@ -77,6 +77,11 @@ td {
   vertical-align: baseline;
 }
 body {
+  /*修改了*/
+  background: url("images/icon4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   line-height: 1;
   color: #000;
   background: #fff;
@@ -128,9 +133,9 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 .outer {
-  background: url("images/icon15.png");
-  background-position: center;
-  background-repeat: no-repeat;
+  /*background: url("images/icon15.png");*/
+  /*background-position: center;*/
+  /*background-repeat: no-repeat;*/
   max-width: 1220px;
   margin: 0 auto;
   padding: 0 20px;
