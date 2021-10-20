@@ -134,7 +134,6 @@ body {
 }
 .outer:before,
 .outer:after {
-  background: url("images/icon15.png");
   content: "";
   display: table;
 }
@@ -182,6 +181,7 @@ body {
 }
 @media screen and (min-width: 768px) {
   #main {
+    background: url("images/icon15.png");
     display: inline;
     float: left;
     width: 73.33333333333333%;
