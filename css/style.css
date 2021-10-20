@@ -1,9 +1,11 @@
 body {
   /*修改了*/
   background: url("images/icon4.png");
-  background-size: cover;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
+  background-attachment: fixed;
+  overflow: auto;
   width: 100%;
 }
 body:before,
@@ -187,9 +189,9 @@ body {
 }
 @media screen and (min-width: 768px) {
   #main {
-    background: url("images/icon25.png");
+    /*background: url("images/icon25.png");
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;*/
     display: inline;
     float: left;
     width: 73.33333333333333%;
@@ -1087,7 +1089,7 @@ a.article-title:hover {
   color: #ddd;
 }
 #footer {
-  background: url("images/icon26.png");
+  /*background: url("images/icon26.png");*/
   padding: 50px 0;
   border-top: 1px solid #ddd;
   color: #999;
