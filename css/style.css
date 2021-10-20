@@ -1,4 +1,9 @@
 body {
+  /*修改了*/
+  background: url("images/icon4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   width: 100%;
 }
 body:before,
@@ -77,11 +82,7 @@ td {
   vertical-align: baseline;
 }
 body {
-  /*修改了*/
-  background: url("images/icon4.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+
   line-height: 1;
   color: #000;
   background: #fff;
