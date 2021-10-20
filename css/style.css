@@ -1088,9 +1088,6 @@ a.article-title:hover {
 }
 #footer {
   background: url("images/icon26.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
   padding: 50px 0;
   border-top: 1px solid #ddd;
   color: #999;
