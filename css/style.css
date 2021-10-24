@@ -1346,7 +1346,8 @@ pre .javascript .function {
     left: 0;
     width: 280px;
     height: 100%;
-    background: #191919;
+    /*background: #191919;*/
+    background: url("images/icon11.png");
     border-right: 1px solid #fff;
     /**/
     border:none;
