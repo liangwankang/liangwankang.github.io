@@ -1129,7 +1129,8 @@ a.article-title:hover {
   color: #ddd;
 }
 #footer {
-  background: url("images/icon26.png");
+  /*页脚*/
+  /*background: url("images/icon26.png");*/
   padding: 50px 0;
   border-top: 1px solid #ddd;
   color: #999;
