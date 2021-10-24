@@ -1141,7 +1141,8 @@ a.article-title:hover {
 }
 #footer {
   /*页脚*/
-  /*background: url("images/icon26.png");*/
+  background: url("images/icon26.png");
+  background-size: cover;
   padding: 50px 0;
   border-top: 1px solid #ddd;
   color: #999;
