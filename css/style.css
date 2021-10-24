@@ -188,7 +188,7 @@ body {
   transition: 0.2s ease-out;
   z-index: 1;
   /*background: #eee;*/
-  background: url("images/icon16.png");
+  background: url("images/icon11.png");
 }
 .mobile-nav-on #wrap {
   left: 280px;
