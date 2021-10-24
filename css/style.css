@@ -1144,8 +1144,9 @@ a.article-title:hover {
   background: url("images/icon26.png");
   background-size: cover;
   padding: 50px 0;
-  border-top: 1px solid #ddd;
+
   color: #999;
+
 
 
 }
