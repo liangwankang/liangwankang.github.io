@@ -1141,17 +1141,13 @@ a.article-title:hover {
 }
 #footer {
   /*页脚*/
-  /*background: url("images/icon26.png");*/
-  /*background-size: cover;*/
-  /*padding: 50px 0;*/
-  /*border-top: 1px solid #ddd;*/
-  /*color: #999;*/
-
-  background: url("images/icon26.png") center #000;
-  background-repeat: no-repeat;
+  background: url("images/icon26.png");
   background-size: cover;
-  /**/
-  border:none;
+  padding: 50px 0;
+  border-top: 1px solid #ddd;
+  color: #999;
+
+
 }
 #footer a {
   color: #258fb8;
